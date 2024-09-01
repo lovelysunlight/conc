@@ -1,10 +1,10 @@
-# Go Library Template
+# Conc
 
 [![Build Badge]][build status]
 [![Go Reference]][godoc]
 [![License Badge]][license]
 
-A template repository for Go Library.
+Better structured concurrency for go.
 
 ## Installing
 
