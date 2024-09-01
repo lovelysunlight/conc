@@ -1,0 +1,8 @@
+.vscode
+.idea
+*.DS_Store
+
+/tmp.out
+/benchmark.out
+/profile.out
+/coverage.out
